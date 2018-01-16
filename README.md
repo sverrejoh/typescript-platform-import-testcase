@@ -1,1 +1,1 @@
-# Forking with definition file and Props Type Test
+# React Native Platform Extensions in TypeScript
