@@ -5,5 +5,7 @@ export interface Props {
 }
 
 export default class Component extends React.Component<Props> {
-    foo: string;
+    render(): JSX.Element {
+        return null;
+    }
 }
